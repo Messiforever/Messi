@@ -1,0 +1,11 @@
+{
+  "name": "Messi",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "angular-ui-router": "^1.0.3",
+    "express": "^4.15.4"
+  }
+}
